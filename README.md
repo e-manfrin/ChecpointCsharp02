@@ -16,9 +16,9 @@ Repositório relativo ao projeto Cadastro de Aluno (CRUD e Frontend na linguagem
 </div>
 
 ## Linkedin
-<div align="center">
+
 https://www.linkedin.com/in/emily-keyt-manfrin-9601b489/
-</div>
+
 
 ## Tecnologias: 
 
